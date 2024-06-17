@@ -1,0 +1,1 @@
+program quickMaths; begin add = 1a + 1, sub = 2 - 1, mul = 3 * 3, div = 4 / 2, pow = 5 ^ 2 end.
